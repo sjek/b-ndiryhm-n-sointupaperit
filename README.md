@@ -43,54 +43,55 @@ A - N
 ```
 
 O - Ö
-
- one                             u2
- pohjois karjala             leevi and the leavings
- rannalla                        indica
- sleepin sun                 nightwish
- the sound of silence            disturbed
- square hammer              ghost
- starman                     david bowie
- strumming  
- tuonelan koivut            kotiteollisuus
- todella kaunis                zen cafe
- tequila vesala
- tällä tiellä                 hassisen kone
- the unforgiven             metallica
- tämän taivaan alla               kotiteollisuus
- tästä asti aikaa             kolmas nainen
- until it sleeps                 metallica
- uni saa tulla                mokoma
- variksenpelätin             maanalainen armeija
- varjo                   neljä ruusua
- viimeinen atlantis             stamina
- the wind cries mary             jimi hendrix
- wings of a butterfly            ville valo
- you know my name             chris cornell
- zombie                  the cranberries
-
+```
+- one                                 u2
+- pohjois karjala                     leevi and the leavings
+- rannalla                            indica
+- sleepin sun                         nightwish
+- the sound of silence                disturbed
+- square hammer                       ghost
+- starman                             david bowie
+- strumming  
+- tuonelan koivut                     kotiteollisuus
+- todella kaunis                      zen cafe
+- tequila                             vesala
+- tällä tiellä                        hassisen kone
+- the unforgiven                      metallica
+- tämän taivaan alla                  kotiteollisuus
+- tästä asti aikaa                    kolmas nainen
+- until it sleeps                     metallica
+- uni saa tulla                       mokoma
+- variksenpelätin                     maanalainen armeija
+- varjo                               neljä ruusua
+- viimeinen atlantis                  stamina
+- the wind cries mary                 jimi hendrix
+- wings of a butterfly                ville valo
+- you know my name                    chris cornell
+- zombie                              the cranberries
+```
 
 
 Bändi-ryhmä
-
- tallulah                sonata arctica
- päivänsäde ja menninkäinen     tapio rautavaara
- paratiisi                agents
- paranoid                  black sabbath
- oh, pretty woman               roy orbison
- hotel california               the eagles (live version)
- master of puppets            metallica
- i will stay                 hurriganes
- highway to hell               ac/dc
- autiotalo                  dingo
- stealing                 uriah heep
- smoke on the water             deep purple
- tears in heaven            eric clapton
- thunderstruck             ac/dc
- t.n.t                        ac/dc
-
+```
+ tallulah                             sonata arctica
+ päivänsäde ja menninkäinen           tapio rautavaara
+ paratiisi                            agents
+ paranoid                             black sabbath
+ oh, pretty woman                     roy orbison
+ hotel california                     the eagles (live version)
+ master of puppets                    metallica
+ i will stay                          hurriganes
+ highway to hell                      ac/dc
+ autiotalo                            dingo
+ stealing                             uriah heep
+ smoke on the water                   deep purple
+ tears in heaven                      eric clapton
+ thunderstruck                        ac/dc
+ t.n.t                                ac/dc
+```
 
 Toiset kansiot ?
-
-Hyvää yötä ja huomenta        don huonot
-Iron man                black sabbath
+```
+Hyvää yötä ja huomenta                don huonot
+Iron man                              black sabbath
+```
